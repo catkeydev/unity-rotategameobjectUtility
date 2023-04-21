@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpinGameObject : MonoBehaviour
+public class RotateGameObject : MonoBehaviour
 {
     [SerializeField] float _xRotationsPerMinute = 1f;
     [SerializeField] float _yRotationPerMinute = 1f;
